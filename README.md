@@ -112,5 +112,5 @@ Make sure to add all the badchars you identified (including \x00):
     ```
       Notice there is no semicolon ; at the end
 * Adjust the nopsled variable if needed
-* Execute Option 6 after setting up a listner in kali
+* Execute Option 6 after setting up a netcat listner.
 

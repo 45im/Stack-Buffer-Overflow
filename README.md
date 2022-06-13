@@ -28,7 +28,7 @@ An "All in One" python script for OSCP style stack based buffer overflows.
 * Execute Option 2
 * In Immunity Debugger, run the following mona command
 
-    `!mona findmsp -distance <bytes>`    ( Change to same length as the pattern )
+    `!mona findmsp -distance <bytes>`    <-- Change to same length as the pattern
 
 * In the output you should see a line which states:
 

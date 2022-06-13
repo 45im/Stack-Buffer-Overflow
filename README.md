@@ -22,7 +22,6 @@ An "All in One" python script for OSCP style stack based buffer overflows.
   `msf-pattern_create -l <Bytes>`
 
 * Paste the cyclic string into payload variable in bof.py
-* Restart the app in Immunity Debugger
     
 ## Option 2 -- Get Offset
 * Restart the app in Immunity Debugger

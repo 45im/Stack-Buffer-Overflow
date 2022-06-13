@@ -11,7 +11,7 @@ An "All in One" python script for OSCP style stack based buffer overflows.
 * Connect using netcat and see if you get a banner or an options menu.
 * If you do, uncomment s.receive(1024) on line 52.
 * If you have to prefix your buffer value with a command, set prefix value otherwise leave it as empty string.
-* If after sending a command if you get any kind of reply, uncomment s.receive(1024) on line 55.
+* If after sending a command you get any kind of reply, uncomment s.receive(1024) on line 55.
 
 ![image](https://user-images.githubusercontent.com/41350723/173417177-d499ac6e-a14c-4108-a075-836d1023b784.png)
 

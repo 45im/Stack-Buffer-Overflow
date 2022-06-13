@@ -1,5 +1,7 @@
 # Stack-Buffer-Overflow
 
+An "All in One" python script for OSCP style stack based buffer overflows.
+
 ![image](https://user-images.githubusercontent.com/41350723/173417707-2753ae6f-1bb2-4858-a1a5-a38d7cdc1fb4.png)
 
 

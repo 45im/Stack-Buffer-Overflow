@@ -67,7 +67,7 @@ An "All in One" python script for OSCP style stack based buffer overflows.
 * In bof.py remove the new badchars from paload variable.
 * Restart the app in Immunity Debugger
 * Run Option 5 again
-* Run the mona command agian (Check ESP register address again, it might have changed)
+* Run the mona command agian (Check ESP register, it might have changed)
 
     `!mona compare -f C:\Address\To\bytearray.bin -a <address>`    <-- modify path and ESP address
 

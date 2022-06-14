@@ -111,5 +111,10 @@ Make sure to add all the badchars you identified (including \x00):
     ```
       Notice there is no semicolon ; at the end
 * Adjust the nopsled variable if needed
+* Restart the app in Immunity Debugger
 * Execute Option 6 after setting up a netcat listner.
 
+## Finaly
+* Change IP to real target IP.
+* Generate new shellcode for the real target if listening IP is different or its running in wine under linux. 
+* Just execute Option 6.

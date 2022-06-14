@@ -115,6 +115,6 @@ Make sure to add all the badchars you identified (including \x00):
 * Execute Option 6 after setting up a netcat listner.
 
 ## Finaly
-* Change IP to real target IP.
-* Generate new shellcode for the real target if listening IP is different or its running in wine under linux. 
+* Change IP to actual target's IP.
+* Generate new shellcode for the actual target if listening IP is different or its running under wine in linux. 
 * Just execute Option 6.
